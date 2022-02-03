@@ -12,4 +12,4 @@ The immutable part of the data model has been (apparently) successfully ported, 
 compat.model.run.generate
 compat.model.run.check
 ```
-The files from the TypeScript version where copied and are in the repo as well.
+The .ctx files from the TypeScript version where copied and are in the repo as well.
