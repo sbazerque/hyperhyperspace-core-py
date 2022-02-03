@@ -1,4 +1,4 @@
-A Python port of [Hyper Hyper Space's core library](https://github.com/hyperhyperspace/hyperhyperspace-core)
+A Python port of [Hyper Hyper Space's core library](https://github.com/hyperhyperspace/hyperhyperspace-core).
 
 Uses Python 3.10 and no dependencies outside of the standard library.
 
